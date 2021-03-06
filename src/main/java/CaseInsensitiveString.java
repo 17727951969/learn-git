@@ -31,6 +31,7 @@ public final class CaseInsensitiveString {
         System.out.println(list.contains(s));
 
         1
+                2
     }
 
 //    // Fixed equals method (Page 40)
