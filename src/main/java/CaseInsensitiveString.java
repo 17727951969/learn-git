@@ -29,7 +29,6 @@ public final class CaseInsensitiveString {
         list.add(cis);
 
         System.out.println(list.contains(s));
-
     }
 
 //    // Fixed equals method (Page 40)
