@@ -32,6 +32,7 @@ public final class CaseInsensitiveString {
 
         1
                 2
+                        3
     }
 
 //    // Fixed equals method (Page 40)
