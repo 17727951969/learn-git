@@ -1,4 +1,9 @@
 # Project exclude paths
 /target/
 .idea
+<<<<<<< HEAD
 *.iml
+=======
+*.iml
+23
+>>>>>>> t
